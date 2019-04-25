@@ -11,6 +11,7 @@ matplotlib = "*"
 numpy = "*"
 pprint = "*"
 tensorflow-gpu = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
