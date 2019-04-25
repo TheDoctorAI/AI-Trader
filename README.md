@@ -4,7 +4,9 @@ Just getting started here...
 
 Running the notebook locally
 
------------------------ Setting Up Locally -----------------------
+------------------------------------------------------------------
+
+---- Setting Up Locally
 
 `pipenv sync`
 
@@ -14,6 +16,8 @@ Running the notebook locally
 
 `jupyter notebook --ip=127.0.0.1`
 
+---- At this point you should be able to switch to your Pipenv's Python as kernel in notebook.
+
 ------------------------------------------------------------------
 
-At this point you should be able to switch to your Pipenv's Python as kernel in notebook.
+
