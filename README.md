@@ -6,7 +6,7 @@ Running the notebook locally
 
 ------------------------------------------------------------------
 
----- Setting Up Locally
+---- Setting Up Locally:
 
 `pipenv sync`
 
