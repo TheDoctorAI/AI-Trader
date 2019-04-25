@@ -1,1 +1,3 @@
 # AI-Trader
+
+Just getting started here...
