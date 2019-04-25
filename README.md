@@ -2,8 +2,6 @@
 
 Just getting started here...
 
-Running the notebook locally
-
 ------------------------------------------------------------------
 
 ---- Setting Up Locally:
