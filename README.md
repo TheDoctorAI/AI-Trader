@@ -4,6 +4,10 @@ Just getting started here...
 
 Running the notebook locally:
 
+`pipenv sync`
+
+`pipenv shell`
+
 `python -m ipykernel install --user --name=aitrader`
 
 `jupyter notebook --ip=127.0.0.1`
