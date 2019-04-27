@@ -18,4 +18,6 @@ Just getting started here...
 
 ------------------------------------------------------------------
 
+or...
 
+All of the .ipynb scripts in this repo can be run on Google Colaboratory. There is a Colab button link on each of the script pages here on Github. For instance: https://github.com/TheDoctorAI/AI-Trader/blob/master/lstm_forecaster.ipynb
