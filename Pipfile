@@ -12,7 +12,7 @@ numpy = "*"
 pprint = "*"
 tensorflow-gpu = "*"
 ipykernel = "*"
-bayesian-optimization = "0.6"
+bayesian-optimization = "==0.6"
 
 [requires]
 python_version = "3.7"
