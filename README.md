@@ -1,6 +1,7 @@
 # AI-Trader
 
-Just getting started here...
+We had some good codes going here but some new ideas have happened. They will be shown here (Different branch) and
+over at [TheDoctorAI/edge-learner](https://github.com/TheDoctorAI/edge-learner)
 
 ------------------------------------------------------------------
 
